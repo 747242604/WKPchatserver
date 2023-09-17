@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/wkp/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wkp/chat/include -I/home/wkp/chat/include/server -I/home/wkp/chat/include/server/db -I/home/wkp/chat/include/server/model -I/home/wkp/chat/include/server/redis -I/home/wkp/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/wkp/chat/src/server/chatserver.cpp",
+  "file": "/home/wkp/chat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/wkp/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wkp/chat/include -I/home/wkp/chat/include/server -I/home/wkp/chat/include/server/db -I/home/wkp/chat/include/server/model -I/home/wkp/chat/include/server/redis -I/home/wkp/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/wkp/chat/src/server/chatservice.cpp",
+  "file": "/home/wkp/chat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/wkp/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wkp/chat/include -I/home/wkp/chat/include/server -I/home/wkp/chat/include/server/db -I/home/wkp/chat/include/server/model -I/home/wkp/chat/include/server/redis -I/home/wkp/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/wkp/chat/src/server/main.cpp",
+  "file": "/home/wkp/chat/src/server/main.cpp"
+},
+{
+  "directory": "/home/wkp/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wkp/chat/include -I/home/wkp/chat/include/server -I/home/wkp/chat/include/server/db -I/home/wkp/chat/include/server/model -I/home/wkp/chat/include/server/redis -I/home/wkp/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/wkp/chat/src/server/db/db.cpp",
+  "file": "/home/wkp/chat/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/wkp/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wkp/chat/include -I/home/wkp/chat/include/server -I/home/wkp/chat/include/server/db -I/home/wkp/chat/include/server/model -I/home/wkp/chat/include/server/redis -I/home/wkp/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/wkp/chat/src/server/model/friendmodel.cpp",
+  "file": "/home/wkp/chat/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/wkp/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wkp/chat/include -I/home/wkp/chat/include/server -I/home/wkp/chat/include/server/db -I/home/wkp/chat/include/server/model -I/home/wkp/chat/include/server/redis -I/home/wkp/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/wkp/chat/src/server/model/groupmodel.cpp",
+  "file": "/home/wkp/chat/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/wkp/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wkp/chat/include -I/home/wkp/chat/include/server -I/home/wkp/chat/include/server/db -I/home/wkp/chat/include/server/model -I/home/wkp/chat/include/server/redis -I/home/wkp/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/wkp/chat/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/wkp/chat/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/wkp/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wkp/chat/include -I/home/wkp/chat/include/server -I/home/wkp/chat/include/server/db -I/home/wkp/chat/include/server/model -I/home/wkp/chat/include/server/redis -I/home/wkp/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/wkp/chat/src/server/model/usermodel.cpp",
+  "file": "/home/wkp/chat/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/wkp/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wkp/chat/include -I/home/wkp/chat/include/server -I/home/wkp/chat/include/server/db -I/home/wkp/chat/include/server/model -I/home/wkp/chat/include/server/redis -I/home/wkp/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/wkp/chat/src/server/redis/redis.cpp",
+  "file": "/home/wkp/chat/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/wkp/chat/build/src/client",
+  "command": "/usr/bin/g++   -I/home/wkp/chat/include -I/home/wkp/chat/include/server -I/home/wkp/chat/include/server/db -I/home/wkp/chat/include/server/model -I/home/wkp/chat/include/server/redis -I/home/wkp/chat/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/wkp/chat/src/client/main.cpp",
+  "file": "/home/wkp/chat/src/client/main.cpp"
+}
+]
